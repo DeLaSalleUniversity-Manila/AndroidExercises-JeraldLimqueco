@@ -72,6 +72,8 @@ Course Adviser App (https://github.com/DeLaSalleUniversity-Manila/courseadvisera
 64.	Filter2D (https://github.com/DeLaSalleUniversity-Manila/filter2d-JeraldLimqueco)
 65.	Playing with Transparency (https://github.com/DeLaSalleUniversity-Manila/playingwithtransparency-JeraldLimqueco)
 66.	Histogram of Gradients (HOG) Features (https://github.com/DeLaSalleUniversity-Manila/hog-JeraldLimqueco)
+67.	Green Wall Game (https://github.com/DeLaSalleUniversity-Manila/greenwall-JeraldLimqueco)
+68.	Octodroid (https://github.com/DeLaSalleUniversity-Manila/octodroid-JeraldLimqueco)
 
 
 
