@@ -1,6 +1,6 @@
 # AndroidExercises-JeraldLimqueco
 
-#Android Exercises
+#Android Portfolio
 A collection of basic Android exercises
 
 Final Project 2015 ()
