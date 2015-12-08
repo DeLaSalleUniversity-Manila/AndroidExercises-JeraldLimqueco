@@ -3,7 +3,7 @@
 #Android Portfolio
 A collection of basic Android exercises
 
-Final Project 2015 ()
+Final Project 2015 (https://github.com/DeLaSalleUniversity-Manila/finalproject2015-JeraldLimqueco)
 Course Adviser App (https://github.com/DeLaSalleUniversity-Manila/courseadviserapp-JeraldLimqueco)
 
 1.	Hello World App Demo (https://github.com/DeLaSalleUniversity-Manila/androidhelloworldapp-JeraldLimqueco)
@@ -82,5 +82,12 @@ Course Adviser App (https://github.com/DeLaSalleUniversity-Manila/courseadvisera
 74.	Forkhub (https://github.com/DeLaSalleUniversity-Manila/forkhub-JeraldLimqueco)
 75.	MP Android Chart Demo (https://github.com/DeLaSalleUniversity-Manila/mpandroidchart-JeraldLimqueco)
 76.	OpenGL ES 3.0 Demo (https://github.com/DeLaSalleUniversity-Manila/opengles3-JeraldLimqueco)
+77.	ContoursDemo (https://github.com/DeLaSalleUniversity-Manila/contoursdemo-JeraldLimqueco)
+78.	Circle Detection (https://github.com/DeLaSalleUniversity-Manila/detectcircles-JeraldLimqueco)
+79.	FAST Flow (https://github.com/DeLaSalleUniversity-Manila/fastflow-JeraldLimqueco)
+80.	Image Denoising (https://github.com/DeLaSalleUniversity-Manila/imagedenoising-JeraldLimqueco)
+81.	ORB Flow (https://github.com/DeLaSalleUniversity-Manila/OrbFlow-JeraldLimqueco)
+82.	LBPYUV (https://github.com/DeLaSalleUniversity-Manila/lbpyuv-JeraldLimqueco)
+83.	Skin Detector (https://github.com/DeLaSalleUniversity-Manila/skindetector-JeraldLimqueco)
 
 
