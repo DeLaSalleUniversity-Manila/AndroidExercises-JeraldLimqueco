@@ -76,6 +76,8 @@ Course Adviser App (https://github.com/DeLaSalleUniversity-Manila/courseadvisera
 68.	Octodroid (https://github.com/DeLaSalleUniversity-Manila/octodroid-JeraldLimqueco)
 69.	2048 Game (https://github.com/DeLaSalleUniversity-Manila/2048-JeraldLimqueco)
 70.	Flappy Bird (Clone) (https://github.com/DeLaSalleUniversity-Manila/flappydemo-JeraldLimqueco) 
+71.	Super Jumper (https://github.com/DeLaSalleUniversity-Manila/superjumper-JeraldLimqueco)
+72.	Super Mario (Android Clone) (https://github.com/DeLaSalleUniversity-Manila/supermario-JeraldLimqueco)
 
 
 
