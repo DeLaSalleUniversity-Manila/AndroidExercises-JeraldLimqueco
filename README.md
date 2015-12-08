@@ -75,6 +75,7 @@ Course Adviser App (https://github.com/DeLaSalleUniversity-Manila/courseadvisera
 67.	Green Wall Game (https://github.com/DeLaSalleUniversity-Manila/greenwall-JeraldLimqueco)
 68.	Octodroid (https://github.com/DeLaSalleUniversity-Manila/octodroid-JeraldLimqueco)
 69.	2048 Game (https://github.com/DeLaSalleUniversity-Manila/2048-JeraldLimqueco)
+70.	Flappy Bird (Clone) (https://github.com/DeLaSalleUniversity-Manila/flappydemo-JeraldLimqueco) 
 
 
 
