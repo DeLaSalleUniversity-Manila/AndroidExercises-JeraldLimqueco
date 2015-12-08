@@ -78,6 +78,9 @@ Course Adviser App (https://github.com/DeLaSalleUniversity-Manila/courseadvisera
 70.	Flappy Bird (Clone) (https://github.com/DeLaSalleUniversity-Manila/flappydemo-JeraldLimqueco) 
 71.	Super Jumper (https://github.com/DeLaSalleUniversity-Manila/superjumper-JeraldLimqueco)
 72.	Super Mario (Android Clone) (https://github.com/DeLaSalleUniversity-Manila/supermario-JeraldLimqueco)
+73.	9GAG (Unofficial App) (https://github.com/DeLaSalleUniversity-Manila/supermario-JeraldLimqueco/blob/master/device-2015-12-08-111315.png)
+74.	Forkhub (https://github.com/DeLaSalleUniversity-Manila/forkhub-JeraldLimqueco)
+75.	MP Android Chart Demo (https://github.com/DeLaSalleUniversity-Manila/mpandroidchart-JeraldLimqueco)
 
 
 
